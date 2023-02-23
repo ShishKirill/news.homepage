@@ -165,6 +165,10 @@ a.button:hover {
     grid-area: b1;
 }
 
+.box1 img {
+    width: 100%;
+}
+
 .box2 {
     grid-area: b2;
     font-weight: 300;
